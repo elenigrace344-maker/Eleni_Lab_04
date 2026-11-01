@@ -1,5 +1,4 @@
-# Eleni_Lab_04
-Laboratory 4 – Goldbach Conjecture and Big Number Operations in Python
+
 # Eleni_Lab_04
 
 ## Lab 4 – Python Applications
